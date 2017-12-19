@@ -3,7 +3,7 @@
 One of the things we do at Euromoney is publish and manage content.
 This assignment is to analyse text, detecting and filtering negative words.
 
-- This assignment takes between 30 minutes and an hour.
+- This assignment takes 1-2 hours.
 - [NUnit](http://www.nunit.org) and [Moq](http://code.google.com/p/moq), references have been added using [NuGet](http://nuget.codeplex.com/) Packages.
 
 ## Task requirements
@@ -81,6 +81,6 @@ So that **I can see the original content**.
 
 ---
 
-Note: Please submit your changes as a new pull request on *this* repo, and not on the original repo from which this is forked. If you can't submit a pull request then zip up your code and email it to us, but PRs are *strongly* preferred.
+Note: Please submit your changes as a new pull request on *this* repo. If you can't submit a pull request then zip up your code and email it to us, but PRs are *strongly* preferred.
 
 Thanks for your time, we look forward to hearing from you!
